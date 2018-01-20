@@ -1,18 +1,11 @@
 {
-  "personnes": [
+  "posts": [
     {
       "id": 1,
-      "firstname": "aymen",
-	  "name": "sellaouti",
-	  "age": 35,
-	  "imgPath":"myPAth"
-    },
-	{
-      "id": 2,
-      "firstname": "ahmed",
-	  "name": "bs",
-	  "age": 35,
-	  "imgPath":"myPath"
-    },
-  ]
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
